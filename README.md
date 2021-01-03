@@ -2,36 +2,16 @@
 https://web-synth.jsmcfadyen.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Deployed on [Vercel](https://vercel.com/dashboard).
+Using the [Tone.js](https://tonejs.github.io/) web audio framework.
 
-## Getting Started
+## Sample songs
+# ODE TO JOY
+E4 E4 F4 G4 G4 F4 E4 D4 C4 C4 D4 E4 E4 D4 D4 G3 E4 E4 F4 G4 G4 F4 E4 D4 C4 C4 D4 E4 D4 C4 C4 C4  
 
-First, run the development server:
+C3 C3 C3 C3 G3 G3 G3 G3 C3 C3 C3 F3 G3 G3 G3 G3
+# FRERE JACQUES
+C4 D4 E4 C4 C4 D4 E4 C4 E4 F4 G4 G4 E4 F4 G4 G4 G4 F4 E4 C4 G4 F4 E4 C4 C4 G3 C4 C4 C4 G3 C4 C4
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# PRELUDE NO. 1 IN D MAJOR
+G3 D4 B4 A4 B4 D4 B4 D4 G3 D4 B4 A4 B4 D4 B4 D4 G3 E4 C5 B4 C5 E4 C5 E4 G3 E4 C5 B4 C5 E4 C5 E4 G3 F#4 C5 B4 C5 F#4 C5 F#4 G3 F#4 C5 B4 C5 F#4 C5 F#4 G3 D4 B4 A4 B4 D4 B4 D4 G3 D4 B4 A4 B4 D4 B4 D4
