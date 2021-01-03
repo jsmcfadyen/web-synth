@@ -1,0 +1,7 @@
+my_title {
+  font-family: "Permanent Marker", cursive;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
